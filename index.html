@@ -3,37 +3,43 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Commercial property listings across Kerala by Estate Xperts.">
-<title>Estate Xperts | Commercial Properties in Kerala</title>
-<link rel="stylesheet" href="assets/style.css">
+<title>Estate Xperts | Kerala Commercial Properties</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Arial,sans-serif;color:#172b3a;background:#f5f6f7}
+header{background:#fff;padding:18px 6%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #e2e7eb}
+.brand{font-weight:800;letter-spacing:2px}.brand small{display:block;font-size:10px;color:#687987;margin-top:5px;letter-spacing:1px}
+a.button{background:#b58a4a;color:white;text-decoration:none;padding:12px 16px;border-radius:4px;font-weight:bold;font-size:13px}
+.hero{background:#172f40;color:white;padding:55px 7%}.hero h1{font-size:clamp(34px,5vw,56px);margin:8px 0}.hero h1 span{color:#d6b783}.hero p{color:#d4dfe5;line-height:1.6;max-width:600px}
+main{max-width:1150px;margin:35px auto;padding:0 20px}.panel,.card{background:white;border:1px solid #e2e7eb;border-radius:7px}
+.panel{padding:22px;margin-bottom:22px}.filters{display:grid;grid-template-columns:2fr 1.3fr 1fr 1fr auto;gap:10px;align-items:end}
+label{font-size:11px;color:#687987;font-weight:bold}input,select{width:100%;height:42px;margin-top:7px;padding:0 10px;border:1px solid #dce3e8;border-radius:4px}
+button{height:42px;padding:0 14px;background:white;border:1px solid #dce3e8;border-radius:4px;cursor:pointer}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{overflow:hidden}.top{padding:18px 20px;border-bottom:1px solid #e2e7eb}.id{font-size:10px;color:#b58a4a;font-weight:bold;letter-spacing:1px}.card h3{margin:8px 0 4px;text-transform:capitalize}.muted{font-size:12px;color:#687987}.body{padding:17px 20px}.total{display:flex;justify-content:space-between;background:#f7f5f0;padding:13px;border-radius:4px}.total strong{font-size:19px}.floors{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:12px}.floor{display:flex;justify-content:space-between;background:#f7f9fa;padding:9px;border-radius:3px;font-size:11px;gap:6px}.floor span{color:#687987}.bottom{display:flex;justify-content:space-between;align-items:center;padding:0 20px 18px}.wa{background:#b58a4a;color:white;text-decoration:none;padding:10px 13px;border-radius:4px;font-size:11px;font-weight:bold}
+footer{text-align:center;background:#172f40;color:white;padding:30px 15px;margin-top:50px}footer p,footer small{color:#c4d0d6;font-size:12px}footer a{color:#e0c18e}
+@media(max-width:800px){.filters{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr}}@media(max-width:480px){header{padding:15px}.filters{grid-template-columns:1fr}.floors{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
-<header class="topbar">
-  <div class="brand"><span class="brand-mark">EX</span><div><strong>ESTATE XPERTS</strong><small>COMMERCIAL PROPERTY • KERALA</small></div></div>
-  <a class="header-contact" href="https://wa.me/918590345297" target="_blank" rel="noopener">WhatsApp Enquiry</a>
-</header>
-<section class="hero">
-  <div class="hero-inner">
-    <p class="eyebrow">KERALA COMMERCIAL PROPERTY PORTFOLIO</p>
-    <h1>Find the right space<br><span>for your business.</span></h1>
-    <p class="hero-copy">Explore commercial properties by district, location, carpet area and building configuration.</p>
-    <div class="hero-stats"><div><strong id="totalCount">—</strong><span>LISTINGS</span></div><div><strong>14</strong><span>DISTRICTS</span></div><div><strong>100%</strong><span>KERALA FOCUS</span></div></div>
-  </div>
-</section>
-<main class="container">
-  <section class="search-panel">
-    <div class="section-heading"><div><p class="eyebrow">PROPERTY DIRECTORY</p><h2>Browse properties</h2></div><span id="resultCount" class="result-count"></span></div>
-    <div class="filters">
-      <label>Search property<input id="q" type="search" placeholder="Property ID or location"></label>
-      <label>District<select id="district"><option value="">All districts</option></select></label>
-      <label>Minimum carpet area (sq.ft.)<input id="minArea" type="number" min="0" placeholder="e.g. 2000"></label>
-      <label>Maximum carpet area (sq.ft.)<input id="maxArea" type="number" min="0" placeholder="e.g. 20000"></label>
-      <button id="reset" class="reset-btn" type="button">Clear filters</button>
-    </div>
-  </section>
-  <section id="listings" class="grid" aria-live="polite"></section>
-  <div id="empty" class="empty" hidden>No properties match your search. Try changing the filters.</div>
-</main>
-<footer><div class="footer-brand">ESTATE XPERTS</div><p>Commercial property solutions across Kerala</p><a href="https://wa.me/918590345297" target="_blank" rel="noopener">85903 45297 · WhatsApp</a><small>Public listing information only. Owner contact details and precise map locations are not displayed.</small></footer>
-<script src="assets/app.js"></script>
-</body></html>
+<header><div class="brand">ESTATE XPERTS<small>COMMERCIAL PROPERTY · KERALA</small></div><a class="button" href="https://wa.me/918590345297" target="_blank">WhatsApp Enquiry</a></header>
+<section class="hero"><p>KERALA COMMERCIAL PROPERTY PORTFOLIO</p><h1>Find the right space<br><span>for your business.</span></h1><p>Explore commercial properties by district, location, carpet area and building configuration.</p></section>
+<main><section class="panel"><h2>Browse properties</h2><div class="filters">
+<label>Search property<input id="q" placeholder="Property ID or location"></label>
+<label>District<select id="district"><option value="">All districts</option></select></label>
+<label>Minimum carpet area<input id="min" type="number" placeholder="sq.ft."></label>
+<label>Maximum carpet area<input id="max" type="number" placeholder="sq.ft."></label>
+<button id="clear">Clear</button></div><p id="count" class="muted"></p></section>
+<section id="listings" class="grid"></section><p id="empty" hidden>No properties match your search.</p></main>
+<footer><strong>ESTATE XPERTS</strong><p>Commercial property solutions across Kerala</p><a href="https://wa.me/918590345297">85903 45297 · WhatsApp</a><br><small>Public listing details only. Owner contacts and precise map locations are not displayed.</small></footer>
+<script>
+const $=id=>document.getElementById(id), fmt=n=>Number(n||0).toLocaleString('en-IN',{maximumFractionDigits:2});
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let data=[];
+function render(){let term=$('q').value.toLowerCase().trim(),dist=$('district').value,lo=Number($('min').value)||0,hi=Number($('max').value)||Infinity;
+let rows=data.filter(p=>(!term||[p.code,p.location,p.district].join(' ').toLowerCase().includes(term))&&(!dist||p.district===dist)&&Number(p.carpet||0)>=lo&&Number(p.carpet||0)<=hi);
+$('count').textContent=rows.length+' properties';$('empty').hidden=!!rows.length;
+$('listings').innerHTML=rows.map(p=>{let fs=(p.floors||[]).filter(f=>f.floor||f.carpet_area).map(f=>`<div class="floor"><span>${esc(f.floor||'Floor')}</span><strong>${f.carpet_area?fmt(f.carpet_area)+' sq.ft.':'—'}</strong></div>`).join('');
+let msg=encodeURIComponent(`Hello Estate Xperts, I am interested in property ${p.code} in ${p.location||p.district}. Please share more details.`);
+return `<article class="card"><div class="top"><div class="id">${esc(p.code)}</div><h3>${esc(p.location||'Location not specified')}</h3><div class="muted">${esc(p.district)} · ${esc(p.type||'Commercial')}</div><p><b>${esc(p.configuration||'Configuration not specified')}</b> · ${esc(p.construction||'')}</p></div><div class="body"><div class="total"><span class="muted">TOTAL CARPET AREA</span><strong>${fmt(p.carpet)} sq.ft.</strong></div><p class="muted"><b>FLOOR-WISE CARPET AREA</b></p><div class="floors">${fs||'<span class="muted">Floor areas not provided</span>'}</div></div><div class="bottom"><span class="muted">${esc(p.availability||'')}</span><a class="wa" target="_blank" href="https://wa.me/918590345297?text=${msg}">WhatsApp Enquiry ↗</a></div></article>`}).join('')}
+fetch('properties.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(items=>{data=items;[...new Set(data.map(p=>p.district).filter(Boolean))].sort().forEach(d=>$('district').add(new Option(d,d)));render()}).catch(()=>$('listings').innerHTML='<p>Could not load properties.json. Please ensure it is in the same repository folder as index.html.</p>');
+['q','district','min','max'].forEach(id=>$(id).addEventListener('input',render));$('clear').onclick=()=>{['q','district','min','max'].forEach(id=>$(id).value='');render()};
+</script></body></html>
