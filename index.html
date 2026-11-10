@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Commercial property listings across Kerala by Estate Xperts.">
+<title>Estate Xperts | Commercial Properties in Kerala</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="brand-mark">EX</span><div><strong>ESTATE XPERTS</strong><small>COMMERCIAL PROPERTY • KERALA</small></div></div>
+  <a class="header-contact" href="https://wa.me/918590345297" target="_blank" rel="noopener">WhatsApp Enquiry</a>
+</header>
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">KERALA COMMERCIAL PROPERTY PORTFOLIO</p>
+    <h1>Find the right space<br><span>for your business.</span></h1>
+    <p class="hero-copy">Explore commercial properties by district, location, carpet area and building configuration.</p>
+    <div class="hero-stats"><div><strong id="totalCount">—</strong><span>LISTINGS</span></div><div><strong>14</strong><span>DISTRICTS</span></div><div><strong>100%</strong><span>KERALA FOCUS</span></div></div>
+  </div>
+</section>
+<main class="container">
+  <section class="search-panel">
+    <div class="section-heading"><div><p class="eyebrow">PROPERTY DIRECTORY</p><h2>Browse properties</h2></div><span id="resultCount" class="result-count"></span></div>
+    <div class="filters">
+      <label>Search property<input id="q" type="search" placeholder="Property ID or location"></label>
+      <label>District<select id="district"><option value="">All districts</option></select></label>
+      <label>Minimum carpet area (sq.ft.)<input id="minArea" type="number" min="0" placeholder="e.g. 2000"></label>
+      <label>Maximum carpet area (sq.ft.)<input id="maxArea" type="number" min="0" placeholder="e.g. 20000"></label>
+      <button id="reset" class="reset-btn" type="button">Clear filters</button>
+    </div>
+  </section>
+  <section id="listings" class="grid" aria-live="polite"></section>
+  <div id="empty" class="empty" hidden>No properties match your search. Try changing the filters.</div>
+</main>
+<footer><div class="footer-brand">ESTATE XPERTS</div><p>Commercial property solutions across Kerala</p><a href="https://wa.me/918590345297" target="_blank" rel="noopener">85903 45297 · WhatsApp</a><small>Public listing information only. Owner contact details and precise map locations are not displayed.</small></footer>
+<script src="assets/app.js"></script>
+</body></html>

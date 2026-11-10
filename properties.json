@@ -1,0 +1,1060 @@
+[
+  {
+    "code": "ALP-0001",
+    "district": "Alappuzha",
+    "location": "cherthala",
+    "type": "Commercial",
+    "configuration": "B + G + 3",
+    "construction": "Built to Suit",
+    "availability": "Available for Rent",
+    "carpet": 17158.0,
+    "builtup": 22000.0,
+    "floors": [],
+    "photos": [
+      "chert.jpeg"
+    ]
+  },
+  {
+    "code": "PKD-0001",
+    "district": "Palakkad",
+    "location": "chittor",
+    "type": "Commercial",
+    "configuration": "G+1",
+    "construction": "Ready to Move",
+    "availability": "Available for Rent",
+    "carpet": 4500.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Ground",
+        "carpet_area": "1500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "first",
+        "carpet_area": "3000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0001",
+    "district": "Thiruvananthapuram",
+    "location": "Balaramapuram",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 17982.0,
+    "builtup": 19980.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "4500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "4320",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "4581",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "4581",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0002",
+    "district": "Thiruvananthapuram",
+    "location": "Balaramapuram",
+    "type": "Commercial",
+    "configuration": "B+G+1",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 8903.0,
+    "builtup": 9890.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2816",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2816",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "3271",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0003",
+    "district": "Thiruvananthapuram",
+    "location": "Balaramapuram",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 16000.0,
+    "builtup": 17600.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0004",
+    "district": "Thiruvananthapuram",
+    "location": "Tirumala",
+    "type": "Commercial",
+    "configuration": "B+G+4",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 17400.0,
+    "builtup": 15950.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Fourth Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0005",
+    "district": "Thiruvananthapuram",
+    "location": "Pattom",
+    "type": "Commercial",
+    "configuration": "B+G+4",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 15005.0,
+    "builtup": 16509.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2365",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2825",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2690",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third Floor",
+        "carpet_area": "2410",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Fourth Floor",
+        "carpet_area": "2215",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0006",
+    "district": "Thiruvananthapuram",
+    "location": "Kaniyapuram",
+    "type": "Commercial",
+    "configuration": "G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 16000.0,
+    "builtup": 18100.0,
+    "floors": [
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "6000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "5000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "5000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0007",
+    "district": "Thiruvananthapuram",
+    "location": "Anayara",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 30499.0,
+    "builtup": 33547.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "8500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "7125",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "7437",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "7437",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0008",
+    "district": "Thiruvananthapuram",
+    "location": "Anayara",
+    "type": "Commercial",
+    "configuration": "B+G+3",
+    "construction": "Ready to Move",
+    "availability": "To Be Confirmed",
+    "carpet": 35000.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third Floor",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "PRAMOD_TRIVANDRUM.png"
+    ]
+  },
+  {
+    "code": "TVM-0009",
+    "district": "Thiruvananthapuram",
+    "location": "Vempalavattom",
+    "type": "Commercial",
+    "configuration": "G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 15000.0,
+    "builtup": 16500.0,
+    "floors": [
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "5000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "5000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "5000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0010",
+    "district": "Thiruvananthapuram",
+    "location": "Ulloor",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 10000.0,
+    "builtup": 11000.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2500",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0011",
+    "district": "Thiruvananthapuram",
+    "location": "Pallipuram",
+    "type": "Commercial",
+    "configuration": "G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 8700.0,
+    "builtup": 9570.0,
+    "floors": [
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2900",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0013",
+    "district": "Thiruvananthapuram",
+    "location": "Kilimanoor",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Ready to Move",
+    "availability": "Available for Rent",
+    "carpet": 24500.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "6500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "6000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "6000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "6000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "SUJITH_TRIVANDRUM.png"
+    ]
+  },
+  {
+    "code": "TVM-0015",
+    "district": "Thiruvananthapuram",
+    "location": "Balaramapuram",
+    "type": "Commercial",
+    "configuration": "B+G+4",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 35400.0,
+    "builtup": 42000.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third Floor",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Fourth Floor",
+        "carpet_area": "5900",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0016",
+    "district": "Thiruvananthapuram",
+    "location": "Ayanimoodu",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Built to Suit",
+    "availability": "To Be Confirmed",
+    "carpet": 26444.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "6156",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "6368",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "6960",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "6960",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "CHELLAPA_TRIVANDRUM.png"
+    ]
+  },
+  {
+    "code": "TVM-0017",
+    "district": "Thiruvananthapuram",
+    "location": "Kaimanam",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 4163.0,
+    "builtup": 4579.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "937",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "878",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "1174",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "1174",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0018",
+    "district": "Thiruvananthapuram",
+    "location": "Anayara",
+    "type": "Commercial",
+    "configuration": "G+3",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 4322.0,
+    "builtup": 4754.0,
+    "floors": [
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2161",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2161",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TVM-0019",
+    "district": "Thiruvananthapuram",
+    "location": "Medical College",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 11323.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "3500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "3445",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "4378",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "favourite.jpeg"
+    ]
+  },
+  {
+    "code": "TVM-0020",
+    "district": "Thiruvananthapuram",
+    "location": "Nettayam",
+    "type": "Commercial",
+    "configuration": "B-2+G+3",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 16055.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement 1",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Basement 2",
+        "carpet_area": "4000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "1893",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2054",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2054",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third Floor",
+        "carpet_area": "2054",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "nettayam.png"
+    ]
+  },
+  {
+    "code": "TVM-0021",
+    "district": "Thiruvananthapuram",
+    "location": "Chakka",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 14682.88,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "3717.26",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "3195.18",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "3885.22",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "3885.22",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "chakka.png"
+    ]
+  },
+  {
+    "code": "TVM-0022",
+    "district": "Thiruvananthapuram",
+    "location": "Thampuranmukku",
+    "type": "Commercial",
+    "configuration": "G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent or Sale",
+    "carpet": 8106.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "2702",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First Floor",
+        "carpet_area": "2702",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second Floor",
+        "carpet_area": "2702",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "WhatsApp_Image_2026-10-28_at_00.10.43.jpeg"
+    ]
+  },
+  {
+    "code": "TVM-0023",
+    "district": "Thiruvananthapuram",
+    "location": "mangalapuram",
+    "type": "Commercial",
+    "configuration": "B+G+3",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 20588.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Ground",
+        "carpet_area": "4661",
+        "builtup_area": ""
+      },
+      {
+        "floor": "FIRST",
+        "carpet_area": "5309",
+        "builtup_area": ""
+      },
+      {
+        "floor": "SECOND",
+        "carpet_area": "5309",
+        "builtup_area": ""
+      },
+      {
+        "floor": "THIRD",
+        "carpet_area": "5309",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "ommer_trivandrum.jpeg"
+    ]
+  },
+  {
+    "code": "TVM-0024",
+    "district": "Thiruvananthapuram",
+    "location": "nalanchira",
+    "type": "Commercial",
+    "configuration": "B+G+3",
+    "construction": "Ready to Move",
+    "availability": "Available for Rent",
+    "carpet": 10656.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2766",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "1500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "FIRST",
+        "carpet_area": "1500",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "2445",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third",
+        "carpet_area": "2445",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "sajo_trivandrum.png",
+      "WhatsApp_Image_2026-11-09_at_11.45.58.jpeg"
+    ]
+  },
+  {
+    "code": "TVM-0025",
+    "district": "Thiruvananthapuram",
+    "location": "pothencode",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent",
+    "carpet": 14150.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "3350",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground Floor",
+        "carpet_area": "3600",
+        "builtup_area": ""
+      },
+      {
+        "floor": "FIRST",
+        "carpet_area": "3600",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "3600",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "siyas_1.png"
+    ]
+  },
+  {
+    "code": "TVM-0026",
+    "district": "Thiruvananthapuram",
+    "location": "nedumangad",
+    "type": "Commercial",
+    "configuration": "B + G + 2",
+    "construction": "Ready to Move",
+    "availability": "Available for Rent",
+    "carpet": 10106.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "3000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground",
+        "carpet_area": "2237",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First",
+        "carpet_area": "2348",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "2521",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "karthik_2.png"
+    ]
+  },
+  {
+    "code": "TSR-0001",
+    "district": "Thrissur",
+    "location": "Irinjalakuda",
+    "type": "Commercial",
+    "configuration": "B+G+3",
+    "construction": "Ready to Move",
+    "availability": "Available for Rent or Sale",
+    "carpet": 10100.0,
+    "builtup": null,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "2020",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground",
+        "carpet_area": "2020",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First",
+        "carpet_area": "2020",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "2020",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Third",
+        "carpet_area": "2020",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TSR-0002",
+    "district": "Thrissur",
+    "location": "Thrissur",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent or Sale",
+    "carpet": 13140.0,
+    "builtup": null,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "3285",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground",
+        "carpet_area": "3285",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First",
+        "carpet_area": "3285",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "3285",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TSR-0003",
+    "district": "Thrissur",
+    "location": "Thrissur",
+    "type": "Commercial",
+    "configuration": "B+G+2",
+    "construction": "Under Construction",
+    "availability": "Available for Rent or Sale",
+    "carpet": 22882.0,
+    "builtup": null,
+    "floors": [
+      {
+        "floor": "Basement",
+        "carpet_area": "6057",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Ground",
+        "carpet_area": "5521",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First",
+        "carpet_area": "5652",
+        "builtup_area": ""
+      },
+      {
+        "floor": "Second",
+        "carpet_area": "5652",
+        "builtup_area": ""
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TSR-0004",
+    "district": "Thrissur",
+    "location": "Chavakkad",
+    "type": "Commercial",
+    "configuration": "G+1",
+    "construction": "Under Construction",
+    "availability": "Available for Rent or Sale",
+    "carpet": 14000.0,
+    "builtup": 0.0,
+    "floors": [
+      {
+        "floor": "Ground",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      },
+      {
+        "floor": "First",
+        "carpet_area": "7000",
+        "builtup_area": ""
+      }
+    ],
+    "photos": [
+      "WhatsApp_Image_2026-09-17_at_15.23.03.jpeg"
+    ]
+  },
+  {
+    "code": "TSR-0005",
+    "district": "Thrissur",
+    "location": "Chavakkad",
+    "type": "Commercial",
+    "configuration": "G+1",
+    "construction": "Under Construction",
+    "availability": "Available for Rent or Sale",
+    "carpet": 6800.0,
+    "builtup": 7000.0,
+    "floors": [
+      {
+        "floor": "Ground",
+        "carpet_area": "3400",
+        "builtup_area": "3500"
+      },
+      {
+        "floor": "First",
+        "carpet_area": "3400",
+        "builtup_area": "3500"
+      }
+    ],
+    "photos": []
+  },
+  {
+    "code": "TSR-0007",
+    "district": "Thrissur",
+    "location": "Kodakara",
+    "type": "Commercial",
+    "configuration": "B-2+G+4",
+    "construction": "Under Construction",
+    "availability": "To Be Confirmed",
+    "carpet": 59245.24,
+    "builtup": null,
+    "floors": [],
+    "photos": []
+  }
+]
